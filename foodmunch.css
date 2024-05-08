@@ -1,0 +1,94 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.anc{
+    color: black !important;
+    font-size: 25px;
+    font-family: roboto;
+}
+.food-munch-logo{
+    height: 80px;
+}
+.banner-section{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+.banner-section-heading{
+    color: white;
+    font-family: roboto;
+    font-size: 60px;
+    font-weight: 300;
+}
+.banner-section-para{
+    color:#f5f7fa;
+    font-size: 45px;
+    font-family: roboto;
+    font-weight: 300;
+}
+.view-menu{
+    height: 60px;
+    width: 170px;
+    background-color: #d0b200;
+    color: white;
+    font-size: 25px;
+    border-radius: 10px;
+    border-width: 0px;
+}
+.order-now{
+    height: 60px;
+    width: 170px;
+    color: #d0b200;
+    border: 1px solid #d0b200;
+    font-size: 25px;
+    background-color: transparent;
+    border-radius: 10px;
+    margin-left: 15px;
+}
+.wcu-container{
+    background-color: #cfd6e19c;
+}
+.wcu-heading{
+    font-family: roboto;
+    font-size: 60px;
+    font-weight: 700;
+    color: #183b56;
+}
+.wcu-para{
+    font-family: roboto;
+    font-size: 30px;
+    color: #5a7184;
+}
+.wcu-card{
+ color: white;
+ background-color: #e8edf1;
+ text-align: center;
+ border: 2px solid #ececec;
+ border-radius: 16px;
+padding: 30px !important;
+margin-bottom: 5px;
+height: 500px;
+}
+.wcu-images{
+    height: 90px;
+    width: 87px;
+}
+.wcu-card-title{
+    font-family: roboto;
+    font-size:30px;
+    font-weight: 500;
+    color: #323f4b;
+}
+.wcu-card-para{
+    font-size: 25px;
+    font-family: roboto;
+    color: #7b8794;
+}
+.off{
+    font-weight: 600;
+    color: #323f4b;
+    font-style: italic;
+}
